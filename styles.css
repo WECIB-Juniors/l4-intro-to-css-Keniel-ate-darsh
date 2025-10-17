@@ -4,11 +4,53 @@
 /* This ruleset defines the styling for the entire body of your HTML document. */
 body {
     /* Change this background-color. */
-    background-color: white;
+    background-color: rgba(4, 0, 255, 0.349);
+    
 }
 
 /* This defines styling for all your p elements */
 
 p {
 
+}
+
+h1 {
+    color: #5f9ea0;
+    font-size: larger;
+}
+h2 {
+    color: #7fffd4;
+    font-size: larger;
+}
+h3 { 
+    color:crimson;
+    font-size: larger;
+}
+header {
+    color: black;
+    font-size: larger;
+}
+ol {
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+}
+ul { 
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+}
+img {
+    border: #5f9ea0;
+    border-style: groove;
+}
+button {
+    animation: alternate;
+    background-color: blueviolet;
+}
+footer {
+    color: black;
+    font-size: larger;
+}
+body {
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
 }
